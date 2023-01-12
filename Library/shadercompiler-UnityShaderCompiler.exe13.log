@@ -1,0 +1,53 @@
+Base path: 'D:/ayush_unity/installs/2019.4.40f1/Editor/Data', plugins path 'D:/ayush_unity/installs/2019.4.40f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12109 outsize=1840 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1611 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18301 outsize=2233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=2795 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1647 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1631 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1823 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1974 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=72903 outsize=3651 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=682 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1005 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=622 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1134 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1484 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1442 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1248 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1364 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=22065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4442 outsize=1684 ok=1
+Cmd: shutdown
